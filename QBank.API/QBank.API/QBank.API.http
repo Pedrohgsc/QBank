@@ -1,0 +1,6 @@
+@QBank.API_HostAddress = http://localhost:5261
+
+GET {{QBank.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
