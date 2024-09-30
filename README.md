@@ -1,5 +1,7 @@
 # QBank
 
+## Descrição
+QBank é um sistema bancário desenvolvido em ASP.NET Core, implementando uma API REST para gerenciar contas, transações e clientes.
 
 ## Integrantes do grupo 
 - Daniel Amorim Monteiro Barbosa (https://github.com/danielmonteiro09)
@@ -12,8 +14,6 @@
 
 - Luiz Felipe Camilo 
 (https://github.com/luizfelipec10)
-
-- Pedro Henrique Gripp Dos Santos Castro (https://github.com/lPedrohgsc)
 
 ## Tecnologias Utilizadas 
 - ASP.NET Core (C#)
