@@ -10,7 +10,7 @@ QBank é um sistema bancário desenvolvido em ASP.NET Core, implementando uma AP
 (https://github.com/MateusBraaga)
 
 - Pedro Hnerique Gripp dos Santos Castro
-(https://github.com/)
+(https://github.com/Pedrohgsc)
 
 - Luiz Felipe Camilo 
 (https://github.com/luizfelipec10)
